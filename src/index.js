@@ -1,3 +1,4 @@
+// Testing GitHub Actions CI workflow
 function sayHi(name) {
   return `Hello there ${name}`
 }
